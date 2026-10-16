@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm May
 
-<!--
-**teddylee04/teddylee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Data Science / Machine Learning
 - 🌱 I’m currently learning Development
