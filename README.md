@@ -6,10 +6,10 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/vimolrat-saelee-may">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/vimolratlee" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
   </a>
 </p>
@@ -23,10 +23,10 @@
 
 **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,SQlite" alt="Databases" />
 </p>
 
 **Software Engineering (Front-end & Back-end)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bootstrap,sass,c,cpp,java,docker,git,linux,vscode,figma,postman" alt="Software Engineering Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bootstrap,sass,c,cpp,docker,git,linux,vscode,figma" alt="Software Engineering Tools" />
 </p>
