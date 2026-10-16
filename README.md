@@ -28,5 +28,5 @@
 
 **Software Engineering (Front-end & Back-end)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,API,bootstrap,sass,c,cpp,docker,git,linux,vscode,figma" alt="Software Engineering Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bootstrap,sass,c,cpp,docker,git,linux,vscode,figma" alt="Software Engineering Tools" />
 </p>
