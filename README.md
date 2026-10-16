@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm May
 
 
-- 🔭 I’m currently working on Data Science / Machine Learning
-- 🌱 I’m currently learning Development
+- I’m currently working on Data Science / Machine Learning
+- I’m currently learning Development
+- I enjoy exploring diverse industries and am currently focused on healthcare, automotive, and finance.
 
 ### Connect with me:
 <p align="left">
